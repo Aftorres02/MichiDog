@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a MiniMarket MichiDog
 
 You can use the [editor on GitHub](https://github.com/Aftorres02/MichiDog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
