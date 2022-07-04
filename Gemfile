@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 group :jekyll_plugins do
-    gem "bulma-clean-theme"
+    gem 'wdm', '>=0.1.0'
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
@@ -12,3 +12,5 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
 end
 
+
+gem "webrick", "~> 1.7"
