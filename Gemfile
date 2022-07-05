@@ -5,7 +5,7 @@ gemspec
 
 group :jekyll_plugins do
     gem 'wdm', '>=0.1.0'
-    gem "jekyll"
+    gem "jekyll", "~> 3.9"
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
@@ -13,7 +13,6 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem "webrick"
     gem "bulma-clean-theme"
-    gem 'github-pages', group: :jekyll_plugins
 end
 
 
